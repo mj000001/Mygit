@@ -1,4 +1,2 @@
-Git is a version control system!
-This is my first git!
-First change readme.txt
-Thursdays changed!
+test.m 用于测试
+SPLD.m 用于自步学习自动选择训练样本
